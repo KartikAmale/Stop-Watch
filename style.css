@@ -31,12 +31,12 @@ body{
 }
 
 .btn{
-    font-size: 20px;
+    font-size: 18px;
     background: none;
     border: none;
     color: #fff;
     background-color: var(--clr);
-    padding: 12px 24px;
+    padding: 10px 22px;
     margin-inline: 12px;
     border-radius: 8px;
     cursor: pointer;
